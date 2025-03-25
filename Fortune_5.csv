@@ -1,0 +1,10 @@
+﻿Rank,Company,Ticker,ProfitsPercentChange,Sector,Industry
+1,Walmart,WMT,32.8,Retailing,General Merchandisers
+2,Exxon Mobil,WMT,,Retailing,Internet Services and Retailing
+3,Alphabet,,-2.8,Technology,"Computers, Office Equipment"
+4,McKesson,,11.2,Health Care,Health Care: Insurance and Managed Care
+5,Cencora,,,Financials,Insurance: Property and Casualty (Stock)
+6,Costco Wholesale,,101.1,Health Care,Health Care: Pharmacy and Other Services
+7,Exxon Mobil,WMT,-35.4,Energy,Petroleum Refining
+8,Alphabet,GOOGL,23,Technology,Internet Services and Retailing
+9,,,,,
